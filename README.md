@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </div>
 
 ### 🧑‍💻 About Me: 
-I am a Tech Ops Specialist and Developer.
+I am a Cloud Systems Developer.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
